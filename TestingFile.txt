@@ -1,2 +1,0 @@
-This is a file I'm using to test if WebStorm succesfully commits to my github. Please ignore if you stumble upon this
-somehow.
